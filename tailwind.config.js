@@ -7,7 +7,7 @@ tailwind.config = {
           navbtn:'#1C1D28',
           subheading:'#161722',
           servicebg:'#FFF5EB',
-          watchbg:'#F5F2F0',
+          watchbg:'#F5F2F0'
         },
         maxWidth: {
             'container': '1280px',
